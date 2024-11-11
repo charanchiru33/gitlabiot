@@ -3,4 +3,4 @@ earth is round
 hello everone
 today git lab
 fineshed exp 5
-exp 6 doing
+ today exp 6 doing
