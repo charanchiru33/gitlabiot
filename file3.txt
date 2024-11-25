@@ -4,3 +4,4 @@ hello everone
 today git lab
 fineshed exp 5
  today exp 6 doing
+exp6 editing
